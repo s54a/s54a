@@ -123,7 +123,11 @@
 ## <div align="center">🐍 Contribution Snake</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/s54a/s54a/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<img
+  src="https://raw.githubusercontent.com/s54a/s54a/output/github-contribution-grid-snake.svg"
+  alt="snake gif"
+  width="800"
+/>
 </div>
 
 ---
