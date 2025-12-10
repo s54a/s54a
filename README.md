@@ -118,14 +118,14 @@
 
 </div> -->
 
-## <div align="center">📈 GitHub Streak</div>
+<!-- ## <div align="center">📈 GitHub Streak</div> -->
 
 <div align="center">
-  <img
-       src="https://streak-stats.demolab.com?user=s54a&theme=tokyonight&hide_border=true"
-       height="180"
-       alt="GitHub Streak Stats"
-  />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=s54a&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
 </div>
 
 ---
@@ -159,6 +159,10 @@
   <a href="https://github.com/s54a">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
+
+<a href="https://www.npmjs.com/~s54a">
+  <img src="https://img.shields.io/badge/NPM-%40s54a-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
 
   <a href="mailto:dev@s54a.in">
     <img src="https://img.shields.io/badge/Email-dev@s54a.in-ef4444?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
