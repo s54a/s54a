@@ -20,7 +20,7 @@
 
 ---
 
-## <div align="center">🧠 Tech I Use</div>
+## <div align="center">⚙️ Tech I Use</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,bash,githubactions,bun,vite,webpack,postman,cloudflare,aws,vercel,linux,html,css&perline=12" />
@@ -122,7 +122,8 @@
 
 <div align="center">
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?user=s54a&theme=tokyonight&hide_border=true"
+  src="https://github-readme-streak-stats-s54a.vercel.app?user=s54a&theme=tokyonight&hide_border=true"
+  height="180"
   alt="GitHub Streak"
 />
 
@@ -130,7 +131,7 @@
 
 ---
 
-## <div align="center">🐍 Contribution Snake</div>
+<!-- ## <div align="center">🐍 Contribution Snake</div> -->
 
 <div align="center">
 <img
@@ -141,7 +142,7 @@
 
 ---
 
-## <div align="center">🔗 Connect With Me</div>
+<!-- ## <div align="center">🔗 Connect With Me</div> -->
 
 <div align="center">
 
