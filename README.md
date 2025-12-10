@@ -23,7 +23,7 @@
 ## <div align="center">🧠 Tech I Use</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,bun,vite,postman,cloudflare,aws,vercel,linux,postman,git,githubactions,html,css&perline=6&perline=14" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,bash,githubactions,bun,vite,webpack,postman,cloudflare,aws,vercel,linux,html,css&perline=12" />
 </div>
 
 ---
@@ -99,7 +99,7 @@
 
 ---
 
-## <div align="center">📈 GitHub Stats</div>
+<!-- ## <div align="center">📈 GitHub Stats</div>
 
 <div align="center">
 
@@ -116,6 +116,16 @@
     alt="Public repos"
   />
 
+</div> -->
+
+## <div align="center">📈 GitHub Streak</div>
+
+<div align="center">
+  <img
+       src="https://streak-stats.demolab.com?user=s54a&theme=tokyonight&hide_border=true"
+       height="180"
+       alt="GitHub Streak Stats"
+  />
 </div>
 
 ---
@@ -126,7 +136,6 @@
 <img
   src="https://raw.githubusercontent.com/s54a/s54a/output/github-contribution-grid-snake.svg"
   alt="snake gif"
-  width="800"
 />
 </div>
 
@@ -135,6 +144,13 @@
 ## <div align="center">🔗 Connect With Me</div>
 
 <div align="center">
+
+<a href="https://x.com/s54a__">
+  <img
+    src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge"
+    alt="Twitter"
+  />
+</a>
 
   <a href="https://linkedin.com/in/s54a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
