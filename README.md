@@ -108,12 +108,12 @@
     alt="GitHub followers"
   />
 <img
-    src="https://img.shields.io/github/stars/s54a?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"
-    alt="GitHub stars"
+    src="https://img.shields.io/github/stars/s54a?style=for-the-badge&logo=github&label=Stars"
+    alt="GitHub user stars"
   />
 <img
-    src="https://img.shields.io/github/repos/s54a?style=for-the-badge&logo=github&label=Public%20Repos"
-    alt="GitHub public repos"
+    src="https://img.shields.io/badge/Public%20Repos-24-0f172a?style=for-the-badge&logo=github"
+    alt="Public repos"
   />
 
 </div>
