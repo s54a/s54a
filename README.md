@@ -104,15 +104,16 @@
 <div align="center">
 
 <img
-    src="https://github-readme-stats.vercel.app/api?username=s54a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-    alt="GitHub stats"
+    src="https://img.shields.io/github/followers/s54a?logo=github&style=for-the-badge&label=Followers"
+    alt="GitHub followers"
   />
-
 <img
-    src="https://streak-stats.demolab.com?user=s54a&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub streak"
+    src="https://img.shields.io/github/stars/s54a?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"
+    alt="GitHub stars"
+  />
+<img
+    src="https://img.shields.io/github/repos/s54a?style=for-the-badge&logo=github&label=Public%20Repos"
+    alt="GitHub public repos"
   />
 
 </div>
