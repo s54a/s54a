@@ -3,7 +3,7 @@
 <div align="center">
   <div style="padding: 1.8rem 2.4rem; border-radius: 18px; background: rgba(15,23,42,0.85); box-shadow: 0 18px 45px rgba(0,0,0,0.55); border: 1px solid rgba(96,165,250,0.45); backdrop-filter: blur(14px); max-width: 720px;">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00FFA3&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sooraj+👋;Full+Stack+Engineer;Next.js+%7C+TypeScript+%7C+MERN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00FFA3&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sooraj+👋;I+am+a+Full+Stack+Engineer;Next.js+%7C+TypeScript+%7C+MERN" alt="Typing SVG" />
 
   <br/>
 
@@ -23,7 +23,7 @@
 ## <div align="center">🧠 Tech I Use</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,bun,vite,webpack,cloudflare&perline=14" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,bun,vite,postman,cloudflare,aws,vercel,linux,postman,git,githubactions,html,css&perline=6&perline=14" />
 </div>
 
 ---
@@ -50,7 +50,7 @@
 
 </div>
 
----
+<!-- ---
 
 ## <div align="center">🚀 Some Things I Build</div>
 
@@ -89,7 +89,7 @@
 
 </div>
 
----
+--- -->
 
 ## <div align="center">📊 GitHub Summary</div>
 
