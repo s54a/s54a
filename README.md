@@ -1,25 +1,21 @@
 <!-- PROFILE README FOR s54a -->
 
 <div align="center">
+  <div style="padding: 1.8rem 2.4rem; border-radius: 18px; background: rgba(15,23,42,0.85); box-shadow: 0 18px 45px rgba(0,0,0,0.55); border: 1px solid rgba(96,165,250,0.45); backdrop-filter: blur(14px); max-width: 720px;">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=00FFA3&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sooraj+👋;Full+Stack+Engineer;Next.js+%7C+TypeScript+%7C+MERN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00FFA3&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sooraj+👋;Full+Stack+Engineer;Next.js+%7C+TypeScript+%7C+MERN" alt="Typing SVG" />
 
-</div>
+  <br/>
 
-<br/>
-
-<div align="center">
-
-  <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=s54a&color=0dd3ff&style=flat" alt="profile views" />
 
 <br/><br/>
 
-  <!-- Portfolio badge -->
   <a href="https://s54a.in">
-    <img src="https://img.shields.io/badge/Portfolio-s54a.in-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-s54a.in-020617?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
+  </div>
 </div>
 
 ---
@@ -28,6 +24,69 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github,bun,vite,webpack,cloudflare&perline=14" />
+</div>
+
+---
+
+## <div align="center">📦 Open Source & Packages</div>
+
+<div align="center">
+
+<a href="https://www.npmjs.com/package/@s54a/init">
+  <img src="https://img.shields.io/npm/dm/@s54a/init?style=for-the-badge&logo=npm&label=%40s54a%2Finit" alt="@s54a/init downloads" />
+</a>
+
+<a href="https://www.npmjs.com/package/@s54a/cliclock">
+  <img src="https://img.shields.io/npm/dm/@s54a/cliclock?style=for-the-badge&logo=npm&label=%40s54a%2Fcliclock" alt="@s54a/cliclock downloads" />
+</a>
+
+<a href="https://github.com/s54a/MultiSearch">
+  <img src="https://img.shields.io/badge/MultiSearch-web%20app-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MultiSearch" />
+</a>
+
+<a href="https://github.com/s54a/GlobalTimeConverter">
+  <img src="https://img.shields.io/badge/Global%20Time%20Converter-timezones-020617?style=for-the-badge&logo=clockify&logoColor=white" alt="Global Time Converter" />
+</a>
+
+</div>
+
+---
+
+## <div align="center">🚀 Some Things I Build</div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td style="border: none; padding: 12px;">
+      <div style="border-radius: 16px; padding: 12px 14px; background: rgba(15,23,42,0.85); border: 1px solid rgba(56,189,248,0.25);">
+        <b>CRM & Billing</b><br/>
+        <sub>MERN • RBAC • Razorpay • reporting</sub>
+      </div>
+    </td>
+    <td style="border: none; padding: 12px;">
+      <div style="border-radius: 16px; padding: 12px 14px; background: rgba(15,23,42,0.85); border: 1px solid rgba(129,140,248,0.35);">
+        <b>Membership Platforms</b><br/>
+        <sub>OTP login • email • printing</sub>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 12px;">
+      <div style="border-radius: 16px; padding: 12px 14px; background: rgba(15,23,42,0.85); border: 1px solid rgba(52,211,153,0.35);">
+        <b>E-commerce</b><br/>
+        <sub>Next.js • Prisma • PostgreSQL</sub>
+      </div>
+    </td>
+    <td style="border: none; padding: 12px;">
+      <div style="border-radius: 16px; padding: 12px 14px; background: rgba(15,23,42,0.85); border: 1px solid rgba(249,115,22,0.4);">
+        <b>Data Migrations</b><br/>
+        <sub>SQL → MongoDB • DevLys → Unicode</sub>
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -51,7 +110,7 @@
   />
 
 <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=s54a&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=s54a&theme=tokyonight&hide_border=true"
     height="170"
     alt="GitHub streak"
   />
@@ -63,10 +122,7 @@
 ## <div align="center">🐍 Contribution Snake</div>
 
 <div align="center">
-
-  <!-- Make sure you have the GitHub Actions workflow set up for this -->
-  <img src="https://github.com/s54a/s54a/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-
+  <img src="https://raw.githubusercontent.com/s54a/s54a/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
 
 ---
@@ -84,7 +140,7 @@
   </a>
 
   <a href="mailto:dev@s54a.in">
-    <img src="https://img.shields.io/badge/Email-dev@s54a.in-FF4D4D?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-dev@s54a.in-ef4444?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 
 </div>
