@@ -120,16 +120,14 @@
 
 <!-- ## <div align="center">📈 GitHub Streak</div> -->
 
-<div align="center">
+<!-- <div align="center">
 <img
   src="https://github-readme-streak-stats-s54a.vercel.app?user=s54a&theme=tokyonight&hide_border=true"
   height="180"
   alt="GitHub Streak"
 />
 
-</div>
-
----
+</div> -->
 
 <!-- ## <div align="center">🐍 Contribution Snake</div> -->
 
