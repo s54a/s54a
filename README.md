@@ -97,6 +97,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s54a&theme=tokyonight" alt="Summary" />
 </div>
 
+## <div align="center">OutCode</div>
+
+<div align="center">
+  [![Outcode rank and score](https://outcode.lol/snippet/s54a.svg?period=year&layout=wide)](https://outcode.lol/u/s54a)
+</div>
+
 ---
 
 <!-- ## <div align="center">📈 GitHub Stats</div>
