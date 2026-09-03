@@ -100,7 +100,7 @@
 ## <div align="center">OutCode</div>
 
 <div align="center">
-  [![Outcode rank and score](https://outcode.lol/snippet/s54a.svg?period=year&layout=wide)](https://outcode.lol/u/s54a)
+[![Outcode rank and score](https://outcode.lol/snippet/s54.svg?period=year&layout=wide)](https://outcode.lol/u/s54)
 </div>
 
 ---
